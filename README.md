@@ -1,4 +1,4 @@
-# Utilizando conhecimentos adquiridos na aula de visão computacional - Mestrado em Informática UFPR
+# Utilizando Conhecimentos Adquiridos na Aula de Visão Computacional - Mestrado em Informática UFPR
 
 - Instalar o jupyter lab para realizar exercícios interativos em python e opencv
 
